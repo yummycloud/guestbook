@@ -16,7 +16,7 @@
         <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
           <collectionProp name="Arguments.arguments"/>
         </elementProp>
-        <stringProp name="HTTPSampler.domain">http://43.203.212.120/</stringProp>
+        <stringProp name="HTTPSampler.domain">http://172.16.0.110/</stringProp>
         <stringProp name="HTTPSampler.port">38080</stringProp>
         <stringProp name="HTTPSampler.protocol"></stringProp>
         <stringProp name="HTTPSampler.contentEncoding"></stringProp>
